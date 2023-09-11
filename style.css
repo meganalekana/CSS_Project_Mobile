@@ -141,12 +141,14 @@ hr{
     height: 40px;
     justify-content: center;
 }
-.section{
+/* .section{
     background-color: #000000;
     opacity: 0.5;
     height: 820px;
+} */
+.blur-container{
+    filter: blur(8px);
 }
-
 /* index3 */
 .container1{
     position: absolute;
